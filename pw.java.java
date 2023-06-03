@@ -4,4 +4,7 @@ class pw
 {
   public m2;
 }
+{
+  public m2;
+}
 }
